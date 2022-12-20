@@ -1,3 +1,3 @@
 # Documentación
 
-Este es el repositorio inicial de mi proyecyo.
+Lo añadiré desde VSCode.
